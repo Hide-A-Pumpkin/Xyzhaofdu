@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xyzhaofdu
 - 👀 From School of Data Science in Fudan University
-- 🌱 Currently learning VIS for AI
+- 🌱 Currently learning VIS and AI
 - 📫 Contact me if any questions ---zxy1337445805@gmail.com
 
 <!---
