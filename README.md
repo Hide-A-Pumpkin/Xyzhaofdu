@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HideAPumpkin
 - 👀 From School of Data Science in Fudan University
-- 🌱 Currently learning VIS and AI
+- 🌱 Currently exploring VIS and HCI
 - 📫 Contact me if any questions ---zxy1337445805@gmail.com
 
 <!---
